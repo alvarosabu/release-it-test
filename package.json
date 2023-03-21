@@ -11,6 +11,9 @@
   "dependencies": {
     "vue": "^3.2.47"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "@release-it/conventional-changelog": "^5.1.1",
     "@vitejs/plugin-vue": "^4.1.0",
