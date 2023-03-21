@@ -1,5 +1,16 @@
 
 
+## [1.0.0](https://github.com/alvarosabu/release-it-test/compare/0.1.1...1.0.0) (2023-03-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* for sure
+
+### Features
+
+* this is a major change on those loggers ([3009fd4](https://github.com/alvarosabu/release-it-test/commit/3009fd445dffb5b19e46ce335a05a6777e12f01b))
+
 ### [0.1.1](https://github.com/alvarosabu/release-it-test/compare/0.1.0...0.1.1) (2023-03-21)
 
 
