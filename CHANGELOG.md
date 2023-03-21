@@ -1,5 +1,12 @@
 
 
+## [2.0.0-alpha.0](https://github.com/alvarosabu/release-it-test/compare/1.0.0...2.0.0-alpha.0) (2023-03-21)
+
+
+### Features
+
+* alphaa version amazing super cool ([e6b3528](https://github.com/alvarosabu/release-it-test/commit/e6b3528fa4bd15621d3f6c0a7aacf7b4a1361c86))
+
 ## [1.0.0](https://github.com/alvarosabu/release-it-test/compare/0.1.1...1.0.0) (2023-03-21)
 
 
